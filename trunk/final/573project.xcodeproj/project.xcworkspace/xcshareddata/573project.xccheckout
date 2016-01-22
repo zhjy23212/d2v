@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E2B2182A-7CD2-4C8B-9762-FDC19547E8FA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>573project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>e8e808b8-a417-46c6-94ba-418a53083474++8456</key>
+		<string>https://svn.engr.arizona.edu/svn/jms/ece473-573-2015S/trunk/d2v</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/final/573project.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>e8e808b8-a417-46c6-94ba-418a53083474++8456</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>e8e808b8-a417-46c6-94ba-418a53083474++8456</key>
+		<string>https://svn.engr.arizona.edu/svn/jms/ece473-573-2015S</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn.engr.arizona.edu/svn/jms/ece473-573-2015S/trunk/d2v/trunk/final/573project.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>e8e808b8-a417-46c6-94ba-418a53083474++8456</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>e8e808b8-a417-46c6-94ba-418a53083474++8456</string>
+			<key>IDESourceControlWCCName</key>
+			<string>d2v</string>
+		</dict>
+	</array>
+</dict>
+</plist>
